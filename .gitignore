@@ -1,0 +1,7 @@
+# Local study drafts and chart — finished piece publishes on the research page
+study/
+.DS_Store
+.env*
+*.pem
+*.key
+credentials.json

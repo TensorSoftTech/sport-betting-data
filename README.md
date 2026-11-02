@@ -17,4 +17,8 @@ The study ships on the Tensorsoft research page — not in this repository’s w
 - `data/` — census, deep-read verdicts, venue-lag series, and probe ledgers used for the write-up
 - `study/` — local drafts (`post1`–`post3`), merged study, and the venue-lag chart (gitignored; the finished piece publishes on the research page)
 
+## License
+
+Data and text © Tensorsoft, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) (see `LICENSE`). GitHub repository metadata remains subject to [GitHub’s terms](https://docs.github.com/en/site-policy/github-terms/github-terms-of-service) and each upstream project’s own license. No third-party source trees are redistributed here.
+
 For research and informational purposes only. Not financial advice. Prediction markets and sportsbooks are restricted in many jurisdictions.

@@ -39,6 +39,13 @@
     "9": 9
   },
   "d3_model": "https://huggingface.co/vllm-sr/d3",
-  "d3_parameters_note": "Hugging Face card lists ~26.09B parameters (not 9B)",
-  "notes": "Residual-audit repos are inside the 2,782 deep-reads, not inside the 680 never-deep-read. Do not write 680=137+543."
+  "d3_parameters_note": "Local Ollama artifact is 5.8 GB (d3:latest); do not cite HF card parameter counts as the runtime size",
+  "notes": "Residual-audit repos are inside the 2,782 deep-reads, not inside the 680 never-deep-read. Git history rewritten 2026-11-08 to scrub credential strings.",
+  "d3_runtime": "Ollama d3:latest (5.8 GB)",
+  "d3_upstream": "https://huggingface.co/vllm-sr/d3",
+  "sampling_audit_model": "Qwen3.8-Flash-Next via https://github.com/blazux/qwen3.8-Flash-DGX",
+  "residual_sample_share_of_817": "137/817\u22480.17",
+  "hidden_estimate_assumption": "149 assumes all 680 never-deep-read clones were screen-rejected; unread roster with screen flags not published",
+  "d3_real_bet_tool_0.5_recall_raw": 0.925,
+  "d3_real_bet_tool_0.5_recall_rounded": 0.93
 }

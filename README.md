@@ -1,4 +1,4 @@
-# Sports-betting tools that actually help
+# About 200 of 2,782 sports-betting repos are useful if you’re building a betting bot or model
 
 Preparation repo for a Tensorsoft field guide to sports-betting and prediction-market open-source tooling — published at [TensorSoftTech/sport-betting-data](https://github.com/TensorSoftTech/sport-betting-data).
 

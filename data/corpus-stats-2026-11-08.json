@@ -40,7 +40,7 @@
   },
   "d3_model": "https://ollama.com/library/d3:4b",
   "d3_parameters_note": "Ollama d3:4b (4.84B params, Q8_0); 5.8 GB on disk; digest 2c571f91caf6 (also listed locally as d3:latest)",
-  "notes": "Residual-audit repos are inside the 2,782 deep-reads, not inside the 680 never-deep-read. Git history rewritten 2026-11-08 to scrub credential strings.",
+  "notes": "Residual-audit repos are inside the 2,782 deep-reads, not inside the 680 never-deep-read. Credential material in deep-read notes redacted to XXX; git history rewritten with filter-repo (fresh-clone verified 2026-11-08).",
   "d3_runtime": "Ollama d3:4b (5.8 GB)",
   "d3_upstream": "https://ollama.com/library/d3:4b",
   "sampling_audit_model": "Qwen3.8-Flash-Next via https://github.com/blazux/qwen3.8-Flash-DGX",

@@ -1,6 +1,6 @@
 # About 200 of 2,782 sports-betting repos are useful if you’re building a betting bot or model
 
-Preparation repo for a Tensorsoft field guide to sports-betting and prediction-market open-source tooling — published at [TensorSoftTech/sport-betting-data](https://github.com/TensorSoftTech/sport-betting-data).
+Preparation repo for a Tensorsoft field guide to sports-betting and prediction-market open-source tooling — published at [TensorSoftTech/sport-betting-data](https://tensorsoft.tech/research/sports-betting-github-data-study).
 
 **Census:** 8,021 repositories found → 3,462 cloned → 2,782 deep-read at source level (wave 1: 1,007 venue/high-signal + wave 2: 1,775 remainder), with live HTTP probes of load-bearing data claims (November 8, 2026).
 
